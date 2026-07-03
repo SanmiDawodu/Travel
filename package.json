@@ -1,0 +1,22 @@
+{
+  "name": "flomicso-travel",
+  "version": "1.0.0",
+  "description": "Travel booking website with hotels, packages, and activities",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "travel",
+    "booking",
+    "hotels",
+    "packages",
+    "activities"
+  ],
+  "author": "Sanmi Dawodu",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
